@@ -15,8 +15,6 @@ This project is a simple **Login and Registration system** built to demonstrate 
 
 ## 🧰 Tech Stack
 
-> Customize this based on what you're using:
->   
 - **HTML/CSS/JavaScript** (for UI-based systems)  
 
 ---
