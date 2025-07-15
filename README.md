@@ -21,7 +21,9 @@ This project is a simple **Login and Registration system** built to demonstrate 
 
 ## 👩‍💻 Author
 Nisha Pandey
-Final Year B.Tech – CSE
+
+Final Year B.Tech –
+
 Web & App Developer | DSA Enthusiast | SDE Aspirant
 🔗 GitHub Profile
 
