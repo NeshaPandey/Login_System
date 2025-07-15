@@ -7,7 +7,6 @@ This project is a simple **Login and Registration system** built to demonstrate 
 ## ✨ Features
 
 - User **Registration** with username and password
-- **Login** with stored credentials
 - Basic **input validation**
 - Console/file-based or local storage of user data
 - Clean and simple UI (if using HTML/CSS/JS)
@@ -17,11 +16,8 @@ This project is a simple **Login and Registration system** built to demonstrate 
 ## 🧰 Tech Stack
 
 > Customize this based on what you're using:
-
-- **Python** (with `file` or `pickle` for data storage)  
-- **Java** (console-based or Swing GUI)  
+>   
 - **HTML/CSS/JavaScript** (for UI-based systems)  
-- **MySQL / SQLite** (if database is included)
 
 ---
 
